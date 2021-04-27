@@ -19,8 +19,11 @@ import org.eclipse.example.calc.internal.operations.Plus;
 import org.eclipse.example.calc.internal.operations.Square;
 
 public class Calculator {
+
 //Unnötiger Kommentar  
 	//auch unnötig
+// nothing to do
+
 	private TextProvider textProvider;
 
 	private String cmd;
