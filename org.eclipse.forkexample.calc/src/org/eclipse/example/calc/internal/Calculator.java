@@ -19,7 +19,7 @@ import org.eclipse.example.calc.internal.operations.Plus;
 import org.eclipse.example.calc.internal.operations.Square;
 
 public class Calculator {
-
+// nothing to do
 	private TextProvider textProvider;
 
 	private String cmd;
