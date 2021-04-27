@@ -20,6 +20,7 @@ import org.eclipse.example.calc.internal.operations.Square;
 
 public class Calculator {
 //Unnötiger Kommentar  
+	//auch unnötig
 	private TextProvider textProvider;
 
 	private String cmd;
