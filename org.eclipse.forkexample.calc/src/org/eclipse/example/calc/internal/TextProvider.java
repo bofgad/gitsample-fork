@@ -24,3 +24,4 @@ public interface TextProvider {
 	public String getDisplayText();
 
 }
+// auchnichts
